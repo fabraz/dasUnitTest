@@ -1,7 +1,7 @@
 dasUnitTest
 ===========
 
-dasUnitrTestIMath
+dasUnitTestIMath
 =================
 https://github.com/fabraz/dasUnitTestIMath
 
